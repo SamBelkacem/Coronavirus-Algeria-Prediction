@@ -1,5 +1,5 @@
 ## Description
-In this work, we first train a time series Prophet model to analyze historical data in Algeria since the beginning of the epidemic and forecast the number of cases and deaths for the coming weeks.
+In this work, we first trained a time series Prophet model to analyze and forecast the number of COVID-19 cases and deaths in Algeria. Then, to better understand the spread of the virus, we constructed a dataset from different reliable sources and conducted a large-scale data analysis considering 82 countries worldwide.
 
 ## Citation
 If you want to use any part of this repository, please cite the following paper.
